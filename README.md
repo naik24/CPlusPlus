@@ -17,3 +17,9 @@ A project currently underway at Chemical Labs, Inc. requires that a substance be
 `
 Your friend Michael runs a catering company. Some of the ingredients that his recipes require are measured in cups. When he goes to the grocery store to buy those ingredients, however, they are sold only by the fluid once. He has asked you to write a simple program that converts cups to fluid ounces.
 `
+
+## Chemistry Class
+
+`
+Dr. LaClaire gives four exams during the semester in her chemistry class. At the end of the semester, she drops each studen't lowest test score before averaging the scores. She has asked you to write a program that will read a student's four test scores as inputs, and calculate the average with lowest score dropped.
+`
