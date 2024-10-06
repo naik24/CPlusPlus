@@ -23,3 +23,9 @@ Your friend Michael runs a catering company. Some of the ingredients that his re
 `
 Dr. LaClaire gives four exams during the semester in her chemistry class. At the end of the semester, she drops each studen't lowest test score before averaging the scores. She has asked you to write a program that will read a student's four test scores as inputs, and calculate the average with lowest score dropped.
 `
+
+## National Commerce Bank
+
+`
+The National Commerce Bank has hired you as a contract programmer. Your first assignment is to write a function that will be used by the bank's automated teller machines (ATMs) to validate a customer's PIN. Your function will be incorporated into a larger program that asks the customer to input his or her PIN on the ATM's numeric keypad. (PINs are 7 digit numbers. The program stores each digit in an element of an integer array). The program also retrieves a copy of the customer's actual PIN from a database. If these two numbers match, then the customer's identity is validated.
+`
